@@ -1,0 +1,3 @@
+Original Transcript: hi how is going
+Corrected Transcript: hi how is going
+✅ Transcript saved to corrected_transcripts/transcript_20250507_215643.txt
